@@ -1,2 +1,2 @@
 # sybil
-forked for the sybil lego tests
+Sybil analysis done for FDD gitcoin
